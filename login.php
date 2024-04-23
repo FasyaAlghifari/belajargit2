@@ -6,6 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
 
+=======
+    <h1>halaman login admin</h1>
+    <p>nfnfnansads</p>
+>>>>>>> flogin
 </body>
 </html>
